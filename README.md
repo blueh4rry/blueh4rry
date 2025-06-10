@@ -31,7 +31,7 @@
   </a>
 </div>
 
-# Other Experiences
+# Others
 * **Jan 2025 - Present**
     * Club President of the Natural Science Association (Astronomy Club) at Dongguk University, Seoul
 * **Mar 2024 - Dec 2024**
