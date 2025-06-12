@@ -21,10 +21,7 @@
     <table>
       <tr>
         <td>
-          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=h4rry" />
-        </td>
-        <td>
-          <img src="http://mazandi.herokuapp.com/api?handle=h4rry&theme=dark" />
+           <img src="https://boj.profilecard.kr/info?username=h4rry" />
         </td>
       </tr>
     </table>
