@@ -11,6 +11,8 @@
 # Certifications
 * **Apr 2025**
     * PCCP Lv.3 (Programmers Certified Coding Professional, Language: C++, Score: 687/1000)
+* **May 2025**
+    * TOPCIT Lv.3 (Test Of Practical Competency in IT, Score: 616/1000)
 
 # Skills
 * Reached Diamond V tier on solved.ac by solving 900+ algorithm problems on Baekjoon Online Judge using C++
