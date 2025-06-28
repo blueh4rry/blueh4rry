@@ -10,7 +10,7 @@
 
 # Projects
 * **Mar 2025 - Jun 2025**
-    * <a href="https://github.com/CSID-DGU/2025-1-CSC4004-1-6-OpenAimForce">OpenAimForceLink</a>: Library that detects cheating in the game through complementary operation of AI and mathematical algorithms
+    * <a href="https://github.com/CSID-DGU/2025-1-CSC4004-1-6-OpenAimForce">OpenAimForce</a>: Library that detects cheating in the game through complementary operation of AI and mathematical algorithms
         * Led the machine learning development(tensorflow, python) for the project, creating a Bi-LSTM model to detect in-game aim-hacks from player log data
         * 1st place among 25 teams in "Open Source Software Project" lecture
  
