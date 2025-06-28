@@ -13,7 +13,8 @@
     * <a href="https://github.com/CSID-DGU/2025-1-CSC4004-1-6-OpenAimForce">OpenAimForce</a>: Library that detects aim-hack in the fps-game through complementary operation of AI and mathematical algorithms
         * Led the machine learning development(tensorflow, python) for the project, creating a Bi-LSTM model to detect in-game aim-hacks from player log data
         * 1st place among 25 teams in "Open Source Software Project" lecture at Dongguk University, Seoul
- 
+* **Dec 2022**
+    *  <a href="https://github.com/h4rrySM/story-about-stars">Story About Stars</a>: Three.js web project to simulate stars through physical quantities of different stars
 
 # Certifications
 * **Apr 2025**
