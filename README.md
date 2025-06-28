@@ -2,7 +2,7 @@
 * **Mar 2024 - Present**
     * Undergraduate Student in Computer Science at Dongguk University, Seoul
 
-# Work Experiences
+# Experiences
 * **Mar 2025 - Present**
     * AI-LAB GPU Server Manager at Dongguk University, Seoul
 * **Sep 2024 - Dec 2024**
