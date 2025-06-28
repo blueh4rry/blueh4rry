@@ -8,6 +8,13 @@
 * **Sep 2024 - Dec 2024**
     * Teaching Assistant for 2024-2 Object-Oriented Programming (CSC2003) at Dongguk University, Seoul
 
+# Projects
+* **Mar 2025 - Jun 2025**
+    * OpenAimForce: Library that detects cheating in the game through complementary operation of AI and mathematical algorithms
+        * Led the machine learning development(tensorflow, python) for the project, creating a Bi-LSTM model to detect in-game aim-hacks from player log data
+        * 1st place among 25 teams in "Open Source Software Project" lecture
+<a href="https://github.com/CSID-DGU/2025-1-CSC4004-1-6-OpenAimForce">Link</a>  
+
 # Certifications
 * **Apr 2025**
     * PCCP Lv.3 (Programmers Certified Coding Professional, Language: C++, Score: 687/1000)
