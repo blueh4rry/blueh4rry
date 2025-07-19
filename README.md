@@ -24,7 +24,7 @@
 
 # Skills
 * Reached 💎 Diamond V tier on solved.ac by solving 900+ algorithm problems on Baekjoon Online Judge using C++  
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=h4rry)](https://solved.ac/h4rry)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=h4rry)](https://solved.ac/profile/h4rry)
 
 # Others
 * **Jan 2025 - Present**
