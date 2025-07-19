@@ -23,20 +23,8 @@
     * TOPCIT Lv.3 (Test Of Practical Competency in IT, Score: 616/1000)
 
 # Skills
-* Reached Diamond V tier on solved.ac by solving 900+ algorithm problems on Baekjoon Online Judge using C++
-
-<div align="center"><b>solved.ac</b> Diamond 💎</div>
-<div align="center">
-  <a href="https://solved.ac/h4rry">
-    <table>
-      <tr>
-        <td>
-           <img src="https://boj.profilecard.kr/info?username=h4rry" />
-        </td>
-      </tr>
-    </table>
-  </a>
-</div>
+* Reached 💎 Diamond V tier on solved.ac by solving 900+ algorithm problems on Baekjoon Online Judge using C++
+    * [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=h4rry)](https://solved.ac/h4rry)
 
 # Others
 * **Jan 2025 - Present**
