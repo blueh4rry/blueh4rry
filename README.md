@@ -14,7 +14,7 @@
         * Led the machine learning development(tensorflow, python) for the project, creating a Bi-LSTM model to detect in-game aim-hacks from player log data
         * 1st place among 25 teams in "Open Source Software Project" lecture at Dongguk University, Seoul
 * **Dec 2022**
-    *  <a href="https://github.com/h4rrySM/story-about-stars">story-about-stars</a> - Three.js web project to simulate stars through physical quantities of different stars
+    *  <a href="https://github.com/blueh4rry/story-about-stars">story-about-stars</a> - Three.js web project to simulate stars through physical quantities of different stars
 
 # Certifications
 * **Apr 2025**
